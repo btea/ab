@@ -14,3 +14,4 @@
 |:--:|:--:|  
 |[MSS](https://baike.baidu.com/item/MSS/3567802?fr=aladdin)|Maximum Segment Size|  
 |[MTU](https://baike.baidu.com/item/MSS/3567802?fr=aladdin)|Maximum Transmission Unit|  
+|TCP|Transmission Control Protocol|  
