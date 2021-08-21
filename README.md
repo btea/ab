@@ -9,6 +9,12 @@
 | CLS  | Cumulative Layout Shift  |
 | PWA  |   Progressive Web App    |
 
+# github  
+| 缩写 |    展开   |
+| :--: |:-----------------:|  
+|LGTB| looks good to me|
+
+
 # http
 
 |                            缩写                            |             展开              |
