@@ -24,4 +24,7 @@
 |                            TCP                             | Transmission Control Protocol |
 |                            HTTP                            |  HyperText Transfer Protocol  |
 |                            NAT                             | Network Address Translation   |  
+|                            STUN                            | Session Traversal Utilities for NAT|  
+|                            TURN                            | Travelsal Using Relyas around NAT| 
+
 
