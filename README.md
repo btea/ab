@@ -26,5 +26,6 @@
 |                            NAT                             | Network Address Translation   |  
 |                            STUN                            | Session Traversal Utilities for NAT|  
 |                            TURN                            | Travelsal Using Relyas around NAT| 
+|                            RTT                             | Round-Trip Time               |  
 
 
