@@ -31,5 +31,5 @@
 # js  
 |       缩写    |   展开  |
 |---------------|---------|  
-| MRTE | managed runtime evviroment|  
+| MRTE | managed runtime enviroment|  
 
