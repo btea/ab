@@ -28,4 +28,8 @@
 |                            TURN                            | Travelsal Using Relyas around NAT| 
 |                            RTT                             | Round-Trip Time               |  
 
+# js  
+|       缩写    |   展开  |
+|---------------|---------|  
+| MRTE | managed runtime evviroment|  
 
