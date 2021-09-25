@@ -12,7 +12,8 @@
 # github  
 | 缩写 |    展开   |
 | :--: |:-----------------:|  
-|LGTB| looks good to me|
+|LGTB| looks good to me|  
+|cc|  Carbon Copy   |  
 
 
 # http
