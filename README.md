@@ -14,6 +14,8 @@
 | :--: |:-----------------:|  
 |LGTB| looks good to me|  
 |cc|  Carbon Copy   |  
+|WDYT| What do you think?| 
+|IMHO| In My humble Opinion| 
 
 
 # http
