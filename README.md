@@ -1,3 +1,5 @@
+https://github.com/nodejs/node/blob/main/glossary.md
+
 # ab
 
 | 缩写 |           展开           |
